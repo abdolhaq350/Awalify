@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', 'Cairo', sans-serif;
+}
+
+#sideMenu {
+    will-change: transform;
+}
+
+#overlay {
+    will-change: opacity;
+}
